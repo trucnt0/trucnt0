@@ -1,4 +1,4 @@
-## Hej Friends, :hatching_chick:
+## Xin Chào / Hi / नमस्ते / Hej / 여보세요 / こんにちは / 你好  /สวัสดี Friends, :hatching_chick:
 
 ### Welcome to my Github Profile 
 
