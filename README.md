@@ -1,6 +1,6 @@
 ### Hej Friends, 👋
 
-## Currently, I am working a as fulltime software developer.
+## Currently, I am working as a fulltime software developer.
 ![Truc Nguyen's github stats](https://github-readme-stats.vercel.app/api?username=trucnt0&show_icons=true&theme=react)
 
 <!--
