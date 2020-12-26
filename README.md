@@ -1,4 +1,4 @@
-## Xin Chào / Hi / नमस्ते / Hej / 여보세요 / こんにちは / 你好  /สวัสดี Friends, :hatching_chick:
+## Hi Friends, :hatching_chick:
 
 ### Welcome to my Github Profile 
 
@@ -15,3 +15,5 @@
 - Have a great day and happy coding!
 
 ![Truc Nguyen's github stats](https://github-readme-stats.vercel.app/api?username=trucnt0&show_icons=true&theme=blueberry)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trucnt0&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
